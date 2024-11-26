@@ -35,7 +35,7 @@ function Contacts() {
             <Card.Body>
               <Card.Title>Contact Number:</Card.Title>
               <Card.Text>
-              0967779029
+              09637779029
               </Card.Text>
             </Card.Body>
           </Card>

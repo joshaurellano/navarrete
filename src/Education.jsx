@@ -11,10 +11,9 @@ function Education() {
         <Col md={4}>
           <Card style={{ width: '18rem' }}>
             <Card.Body>
-              <Card.Title>Cooking</Card.Title>
+              <Card.Title>Elementary</Card.Title>
               <Card.Text>
-                Some quick example text to build on the card title and make up the
-                bulk of the card's content.
+              Naga Central School 1 
               </Card.Text>
             </Card.Body>
           </Card>
@@ -23,10 +22,9 @@ function Education() {
         <Col md={4}>
           <Card style={{ width: '18rem' }}>
             <Card.Body>
-              <Card.Title>Watching Movies and TV Shows</Card.Title>
+              <Card.Title>High School</Card.Title>
               <Card.Text>
-                Some quick example text to build on the card title and make up the
-                bulk of the card's content.
+              Camarines Sur National High School
               </Card.Text>
             </Card.Body>
           </Card>
@@ -35,10 +33,9 @@ function Education() {
         <Col md={4}>
           <Card style={{ width: '18rem' }}>
             <Card.Body>
-              <Card.Title>Playing Online Games</Card.Title>
+              <Card.Title>College</Card.Title>
               <Card.Text>
-                Some quick example text to build on the card title and make up the
-                bulk of the card's content.
+              Naga College Foundation Inc
               </Card.Text>
             </Card.Body>
           </Card>
